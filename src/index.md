@@ -7,7 +7,7 @@ class: cover-slide
 
 .byline[John Maeda]
 .heading[
-# Design in Tech Report 2018
+# 科技中的设计报告 2018
 [https://designintechreport.wordpress.com](https://designintechreport.wordpress.com)
 ]
 
