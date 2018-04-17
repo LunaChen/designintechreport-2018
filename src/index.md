@@ -5,7 +5,7 @@ layout: true
 
 class: cover-slide
 
-.byline[John Maeda]
+.byline[ 前田约翰 John Maeda]
 .heading[
 # 科技中的设计报告 2018
 [https://designintechreport.wordpress.com](https://designintechreport.wordpress.com)
@@ -15,12 +15,12 @@ class: cover-slide
 
 class: team-slide
 
-# Team
+# 团队
 
 .body[
 
 .section[
-## Founding Team
+## 创始团队
 * ![](https://raw.githubusercontent.com/johnmaeda/designintechreport-2018/master/asset/image/jackie.jpg)
 	Jackie Xu
 * ![](https://raw.githubusercontent.com/johnmaeda/designintechreport-2018/master/asset/image/aviv.jpg)
