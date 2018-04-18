@@ -3,6 +3,7 @@ layout: true
 
 ---
 
+
 class: cover-slide
 
 .byline[ 前田约翰 John Maeda]
