@@ -305,16 +305,24 @@ class: chapter-slide lightgray-slide
 # .mono[TBD<br>=<br>Tech &times;<br>Business &times;<br>Design]
 
 .group[
-### Design in tech is evolving rapidly and globally
+### “科技中的设计”正在全球范围内迅速发展中
 
-* Design isn’t just about beauty; it’s about market relevance and meaningful results.
-* There are three kinds of design. Classical Design, Design Thinking, and Computational Design.
-* In 2017 there were 21 acquisitions of creative agencies or designer-founded startups.
-* Medical schools in the US are using design thinking in their curricula.
-* Consulting companies are going beyond just design thinking — they’re changing how business is done.
-* China continues to lead in designing experiences at a scale and level of sophistication that astounds.
-* Indian and Latin markets are advancing design thinking and computational design. And we have a lot to learn from them.
-* **Gen B(older)** is becoming a market opportunity for new products and services that can’t be ignored.
+
+* 设计不仅仅是美观， 也要考虑到它的市场和功能意义
+
+* 设计可以分为三类：传统设计、设计思维和计算设计
+
+* 2017年，共发生了21起创意机构或初创公司（由设计师创办）收购的案例
+
+* M美国的医学院正在将“设计思维”应用在他们的课程当中
+
+* 咨询公司也正在突破设计思维，并改变商业模式
+
+* 中国将继续在设计经验的规模和复杂程度上处于领先地位
+
+* 中国将继续在设计经验的规模和复杂程度上处于领先地位
+
+* **Gen B(older)** 公司以后会逐渐成为市场中新晋商品和服务的一个机会
 ]
 
 .footer[Technology &times; Business &times; Design]
@@ -323,50 +331,52 @@ class: chapter-slide lightgray-slide
 
 class: document-slide kinds-of-design-slide
 
-# There Are Three Kinds of Design
+# 设计的三种类型
+
 
 .stack[
 .group[
 .cell-stack[
 .numeral.subhead[01]
 .small[
-There’s a right way to make what is perfect, crafted, and complete.
+有一套正确的⽅方法去打造出完美、精致、完整的作品。
 ]
 ]
 
 .x-medium.sans[Classical Design]
 
-![:block classical-design]
+![:block 传统设计
+]
 
-Driver/ the Industrial Revolution, and prior to that at least a few millennia of ferment.
+驱动力/ 工业革命和经过之前几千年的酝酿。
 ]
 .group[
 .cell-stack[
 .numeral.subhead[02]
 .small[
-Because execution has outpaced innovation, and experience matters.
+执行力的速度已经超过了创新的速度，体验变得更加重要。
 ]
 ]
 
-.x-medium.sans[Design Thinking]
+.x-medium.sans[设计思维]
 
-![:block design-thinking]
+![:block 设计思维]
 
-Driver/ the need to innovate in relation to individual customer needs requires empathy.
+驱动力/ 建立在个体客户需求上的创新，须要设计者具有同理心。
 ]
 .group[
 .cell-stack[
 .numeral.subhead[03]
 .small[
-Design for billions of individual people and in real time, is at scale and TBD.
+为数以亿计的个体客户进行实时设计的规模很大并且须要TBD（科技、商业、设计）的结合。
 ]
 ]
 
-.x-medium.sans[Computational Design]
+.x-medium.sans[计算设计]
 
-![:block computational-design]
+![:block 计算设计]
 
-Driver/ the impact of Moore’s Law, mobile computing, and the latest tech paradigms.
+驱动力/ 摩尔定律、移动设计端和前沿科技的影响。
 ]
 
 ]
@@ -378,7 +388,8 @@ Driver/ the impact of Moore’s Law, mobile computing, and the latest tech parad
 
 class: document-slide
 
-# What’s a Computational Designer?
+# 什么是“计算设计师”？
+
 
 .grid.ratio-1-3[
 .group[
@@ -388,39 +399,50 @@ class: document-slide
 ]
 
 .small.quote[
-> At NIKE Digital, we embrace open source, contributing to the community by building – and sharing – digital solutions that work on a global scale. We invest in cutting-edge technologies and work with a network of open source libraries and tools, like React.js, Node.js and GraphQL. These investments and tools help us advance web and native UI development, evolve our data science and eCommerce capabilities, refine our DevOps and retool our services infrastructure.
+> 在NIKE Digital（耐克数字公司），我们接受开放源代码，通过创建、共享在全球范围内都具有普适性的数字解决方案，为行业服务。我们不仅投资尖端技术，还使用开放源代码库和诸如React.js，Node.js和GraphQL 这样的数字工具。
+这些投资和工具可以帮助我们推进网络和本地用户界面开发；帮助我们提高数据科学和电子商务方面的能力；帮助我们改善开发运营，重构服务框架。
 
-—2017 Nike job board [archived listing](https://web.archive.org/web/20180125124622/https://jobs.nike.com/job/united-states/product-director-computational-design/824/4344159)
+
+—2017耐克招聘广告内容 [archived listing](https://web.archive.org/web/20180125124622/https://jobs.nike.com/job/united-states/product-director-computational-design/824/4344159)
 ]
 ]
 .grid.ratio-1-1[
 .group[
 .x-medium.sans[
-Understands Computation
+理解“计算”
+
 ]
 
-Has facility with representational codes and maybe programming codes. Knows what is easy and possible, hard and possible, difficult and impossible for now.
+拥有具有典型代码或编程代码的设备。分清“容易而可行”、“困难但可行”和“困难暂不可行”三者的区别。
+
 ]
 .group[
 .x-medium.sans[
-Thinks Critically About Technology
+对科技持批判之态度
+
 ]
 
-Practices being a humanist technologist who asks questions about what’s being made, who’s making it, and why.
+一个具有人文主义的技术专家会提出“制作的是什么？制作者是谁？为什么要制作？”这样的问题。
+
 ]
 .group[
 .x-medium.sans[
-Uses All Three Kinds of Designs
+使用设计的“三种类别”
+
 ]
 
-Taps into the rich history of classical design (form _and_ content) while leading and teaming inclusively _via design thinking_ within their org, or across orgs, for profit or not-for-profit.
+在营利或非营利的组织内或跨组织，领导团队或团队协作时，通过“设计思维”的方式，挖掘“传统设计”（形式与内容）的丰富历史。
+
 ]
 .group[
 .x-medium.sans[
-Actively Learning AI And The New
+主动学习AI（人工智能）和新事物
+
 ]
 
-Considers intersectionality as a source of creativity and a driver of change. Embraces new paradigms and learns them deeply. Lives Apollinaire’s words from the Bauhaus era, .purple[“New (hu)man must have the courage to be new.”]
+思考“交叉性”是创新的源泉以及变化的主要动力。拥抱新事物，并深度学习。
+法国诗人Guillaume Apollinaire在包豪斯时代写道：“新新人类必须敢为新”。
+]
 ]
 ]
 ]
@@ -432,14 +454,17 @@ Considers intersectionality as a source of creativity and a driver of change. Em
 
 class: document-slide
 
-# Does computational design play a material role in a company?
+# “计算设计”对公司有实际意义吗？
 
-.orange.sans[As reported in Leah Buley’s widely reviewed 2016 State of UX essay:]
+
+.orange.sans[Leah Buley 有一篇名为《2016 State of UX》（2016用户体验报告）的文章广受关注：
+]
 
 .darkgray.columns.across-2[
-When asked, “What measurable outcomes resulting from user experience are you most proud of?” high-impact respondents gave responses like: “Multimillion dollar increases in conversion and customer lifetime value.”
+当问到“用户体验带来的可量化的成果中，你最自豪的是哪一个？”高影响受访者的回答是：“可以带来几百万美元的转化收益增长和客户终身价值。”
+”
 
-By contrast, one low-impact respondent answered, “We are moving so fast there has been no time or resources for testing/outcomes – even for small usability improvements.”
+相反，低影响受访者的回答则是，“我们的发展非常迅速，都没有时间和资源去评估体验提升所带来的成果。””
 ]
 
 ![:chart 300px, bar, data/state-of-ux-2016-survey.json]
