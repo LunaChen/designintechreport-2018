@@ -476,72 +476,72 @@ class: document-slide
 
 class: document-slide
 
-# Computational Designer vs Classical Designer
+# 传统设计V.S.计算设计
 
-.darkgray[When people in the tech industry talk about “design,” they often make the mistake of not differentiating between classical designers and computational designers. The former kind of designer might craft a wooden chair for a home which is used by a few people; the latter kind of designer might craft an app for a smartphone which is used by hundreds of millions of people.]
+.darkgray[科技领域的人们谈到“设计”时最常犯的错误就是不区分传统设计师和计算设计师。传统设计师可能会设计一把给几个人使用的家用木质椅子；而计算设计师则可能会设计的是一个被数百万人使用的智能手机应用。]
 
 .small.sans.table.across-3[
 .th[
 ]
 .medium.black.th[
-Classical Design
+传统设计
 ]
 .medium.black.th[
-Computational Design
+计算设计
 ]
 .lightgray.th[
-Number of Active Users
+活跃用户数
 ]
 .td[
-Few to Millions
+几个到上百万
 ]
 .td[
-Few to Billions
+几个到几十亿
 ]
 .lightgray.th[
-Time Needed to Deploy Completed Product
+部署完整产品所需时间
 ]
 .td[
-Weeks to Months through Distribution Channels
+通过分销渠道，耗时几周到几个月
 ]
 .td[
-Instantaneously Delivered Over the Net
+通过网络，即时传递
 ]
 .lightgray.th[
-“Perfection” is Achievable
+是否能达到“完美”
 ]
 .td[
-Yes There’s a final state.
+可以，存在最终状态
 ]
 .td[
-No It’s always evolving.
+不能，总在发展优化中
 ]
 .lightgray.th[
-Designer’s Level of Confidence
+设计师的自信程度
 ]
 .td[
-Absolute, and Self-Validating
+绝对自信，自行证实
 ]
 .td[
-Generally High, but Open to Analyzing, Testing, Research
+总体较高，但对分析测试/研究持开放态度
 ]
 .lightgray.th[
-Production Materials
+生产材料
 ]
 .td[
-Paper, Wood, Metal, and Anything Physical
+纸张，木材，金属和各种实体材料
 ]
 .td[
-Data, Models, Algorithms, and Anything Virtual
+数据，模型，算法及各种虚拟材料
 ]
 .lightgray.th[
-Skills With Tools Are Generally Grounded In
+工具及相关技能通常基于
 ]
 .td[
-Hands and Laws of Physics
+手工和物理定律
 ]
 .td[
-Mind and Computer + Social Sciences
+思维和“计算机+社会”科学
 ]
 ]
 
@@ -551,44 +551,58 @@ Mind and Computer + Social Sciences
 
 class: document-slide
 
-# What’s a Design Thinker?
+# 什么是“设计思想家”？
 
-## The Evolution of Design in the Enterprise
+
+## 企业中设计的演变
+
 
 .stack[
 .group[
-.timeline-title[Birth of Traditional Design for Large Corporations / Corporate Identity+Image and Product Styling]
+.timeline-title[大企业与集团中传统设计的发源：身份标识+图片与产品风格]
 
-.sans[**1950s**] GM’s CEO makes the first executive position in design with Harley Earl elevated to VP.
+.sans[**1950s**] 20世纪50年代，GM（美国通用）的CEO首次提拔设计执行人员Harley Earl为副总裁。
 
-.sans[**1966**] IBM Memo to IBM employees by CEO TJ Watson Jr. about the emerging importance of design to the company.
+
+.sans[**1966**] 1966年，IBM公司向其员工发出简报，简报中CEO TJ Watson Jr. 表达了设计对公司正愈加重要。
+
 ]
 .group[
-.timeline-title[Birth of Modern Product Design Firms / From Traditional Design, to Design of Systems+Services]
+.timeline-title[现代产品设计公司的诞生：从“传统设计”到“系统+服务”型设计转变
+]
 
-.sans[**1982**] From 1982 Apple’s design language begins to form with frog and Hartmut Esslinger’s direction.
+.sans[**1982**] 1982 自1982年开始，苹果公司的设计语言就开始与青蛙设计公司（Frog Design）及其创始人Hartmut Esslinger的方向靠拢。
 
-.sans[**1991**] David Kelley, Bill Moggridge, Mike Nutall join forces and change the course of design by co-founding IDEO.
+
+.sans[**1991**] 1991年 David Kelley、Bill Moggridge、Mike Nutall 联合创立了IDEO （艾迪欧公司，美国），改变了设计的发展轨迹。
+
 ]
 .group[
-.timeline-title[Birth of “Design Thinking” and Design Strategy / Harnessing the Creative Problem Solving Skills of Designers]
+.timeline-title[“设计思维”与设计策略的出现：利用设计师独具创意的解决问题的技巧
+]
 
-.sans[**2005**] Hasso Plattner Institute of Design at Stanford starts.
+.sans[**2005**] 2005年 位于斯坦福的哈索·普拉特纳（Hasso Plattner）设计研究院成立。
 
-IDEO’s Jane Fulton Suri publishes [Thoughtless Acts?](https://www.ideo.com/post/thoughtless-acts) and brings design research to the foreground.
 
-.sans[**2008-09**] Roger L. Martin describes design thinking at the CEO level with P&G’s AG Laffley and his book on The Design of Business. (SAP and P&G were a few of the early executive adopters of Design Thinking.)
+IDEO公司的Jane Fulton Suri发表了题为[轻率的行为？](https://www.ideo.com/post/thoughtless-acts) 的文章，将设计研究带入人们的视野。
+
+
+.sans[**2008-09**] Roger L. Martin在他的《商业设计》一书中，同宝洁公司的AG Laffley 从CEO的层面阐释了“设计思维”。（SAP公司与宝洁公司是早期少数几家认同“设计思维”的公司。）
 ]
 .group[
-.timeline-title[“Design Thinking” Mainstreams as Whole Business Strategy / Re-contextualizing Design, Making B-Schools into D-Schools]
+.timeline-title[“设计思维”已经变成总体经营战略的主流：重新定义设计，这促使商学院（B-School）向设计学院（D-School）转变
+]
 
-.sans[**2015-16**] Phil Gilbert leads IBM’s $100M bet to bring design back to IBM.
+.sans[**2015-16**] 2015至2016年 Phil Gilbert 大胆斥资1亿美金重建了IBM的设计部门。
 
-Tim Brown and Roger L. Martin open the introductory issue for HBR on “The Evolution of Design Thinking.”
 
-Top 10 B-schools all have student-led design clubs.
+Tim Brown 与Roger L. Martin 为HBR（哈佛商业评论）的“设计思维的演变” 写了序言。
 
-.sans[**2018**] IBM Design open sources their [Enterprise Design Thinking](https://www.ibm.com/design/thinking/) framework for all.
+
+排名前10的商学院都有学生领导的设计俱乐部。
+
+
+.sans[**2018**] 2018年 IBM Design公司向公众开源了他们的 [E企业设计思维](https://www.ibm.com/design/thinking/) 。
 ]
 ]
 
@@ -599,67 +613,70 @@ Top 10 B-schools all have student-led design clubs.
 
 class: document-slide
 
-# The large consulting firms are the major M&A driver
+# 大型咨询公司是企业并购的主要原因
+
 
 .darkgray[
 ## 21 new acquisitions of creative agencies or designer-founded startups noted in 2017.
 ]
 
 .timeline-list[
-* .timeline-title[2017 Jan - Feb]
+* .2017年1月至2月]
 
-	- **Idean** acquired by Capgemini
-	- **Unity&Variety** acquired by Salesforce
-	- **Sequence** acquired by Salesforce
-	- **Dribbble** acquired by Tiny
-	- **DeviantArt** acquired by Wix
-	- **Altitude** acquired by Accenture
+	- **Idean** 被Capgemini收购
 
-* .timeline-title[March]
+	- **Unity&Variety** 被Salesforce收购
+	- **Sequence** 被Salesforce收购
+	- **Dribbble** 被Tiny收购
+	- **DeviantArt** 被Wix收购
+	- **Altitude** 被Accenture收购
 
-	- **JWalk** acquired by Shiseido
+* .timeline-title[三月]
 
-* .timeline-title[May]
+	- **JWalk** 被Shiseido收购
 
-	- **The Monkeys and Maud** acquired by Accenture
+* .timeline-title[五月]
 
-* .timeline-title[June]
+	- **The Monkeys and Maud** 被Accenture收购
 
-	- **Market Gravity** acquired by Deloitte
-	- **Intrepid** acquired by Accenture
+* .timeline-title[六月]
 
-* .timeline-title[July]
+	- **Market Gravity** 被Deloitte收购
+	- **Intrepid** 被Accenture收购
 
-	- **Maya** acquired by BCG
-	- **Clearhead** acquired by Accenture
+* .timeline-title[J七月]
 
-* .timeline-title[August]
+	- **Maya** 被BCG收购
+	- **Clearhead** 被Accenture收购
 
-	- **Wire Stone** acquired by Accenture
-	- **Acne** acquired by Deloitte
+* .timeline-title[八月]
 
-* .timeline-title[September]
+	- **Wire Stone** 被Accenture收购
+	- **Acne** 被Deloitte收购
 
-	- **Matter** acquired by Accenture
-	- **VLT Labs** acquired by McKinsey & Co
-	- **TandemSeven** acquired by Genpact.
+* .timeline-title[九月]
 
-* .timeline-title[October]
-	- **Cooper** acquired by Designit/Wipro
-	- **Telepathy** acquired by ServiceNow (CEO: **John Donahoe**)
-	- **Brand.ai** acquired by InVision
-	- **YARD** acquired by Kyu Collective.
+	- **Matter** 被Accenture收购
+	- **VLT Labs** 被McKinsey & Co收购
+	- **TandemSeven** 被Genpact收购
 
-* .timeline-title[December]
-	- **Rothco** acquired by Accenture
+* .timeline-title[十月]
+	- **Cooper** 被Designit/Wipro收购
+	- **Telepathy** 被ServiceNow收购 (CEO: **John Donahoe**)
+	- **Brand.ai** 被InVision收购
+	- **YARD** 被Kyu Collective收购
+
+* .timeline-title[十二月]
+	- **Rothco** 被Accenture收购
 ]
 
 .orange.numeral.subhead[2018]
 
 .quote[
-> We’re excited to join Verizon in their quest to put customers in control of their connectivity and create breakthrough live and digital experiences.
+> 我们很高兴加入Verizon，Verizon致力于建立与客户之间的连接，并实时创造突破和数字体验。
 
-—**Moment** acquired by Verizon [March 2018](http://www.momentdesign.com/what-lies-ahead-moment-joins-verizon/)
+
+—**Moment** 被Verizon收购 [2018年三月](http://www.momentdesign.com/what-lies-ahead-moment-joins-verizon/)
 ]
 
 .source[@tberno @jcoronado1 @leahbuley @hugosarrazin @randyjhunt @scootermcdoog @ezyjules @shatzygoespro @keithinstone]
@@ -669,12 +686,14 @@ class: document-slide
 
 class: document-slide
 
-# Classical Designers Tend to Look Down on Design Thinking
+# 传统设计师常常瞧不起“设计思维”
+
 
 .large.quote[
-> The reduction of a complex creative problem-solving mindset into five steps makes design seem easy when it’s not. A certificate for the completion of a design thinking course is not enough to transform a business into the next Apple. So don’t be deceived by the demystification of the design process or the chance to workshop out million-dollar ideas over post-its. There’s more to design than what design thinking dealers are preaching.
+> 用于解决复杂问题的思维模式并不简单，但可以将其分解为五个步骤。拿到设计思维课程的一纸证书，并不代表就可以将公司打造成下一个Apple。所以，不要被那些所谓解读“设计思维”的课程所迷惑，也不要认为参加个“设计思维”的研修班就可以记录下几个可以赚上几百万的创意。设计的内涵远比“设计思维”的鼓吹者要丰富的多。
 
-—[Natasha Jen](https://www.itsnicethat.com/articles/natasha-jen-pentagram-graphicdesign-230218) on “Why Design Thinking is bullshit”
+
+—[Natasha Jen](https://www.itsnicethat.com/articles/natasha-jen-pentagram-graphicdesign-230218) 《为什么说“设计思维”是胡扯》
 ]
 
 .source[[It’s Nice That](https://www.itsnicethat.com/articles/natasha-jen-pentagram-graphicdesign-230218) [Fortune](http://fortune.com/2018/03/06/design-leadership-ceo-thinking-business-strategy/)]
@@ -684,39 +703,53 @@ class: document-slide
 
 class: document-slide
 
-# Medical schools are using design thinking
+# 医学院也在应用“设计思维”
+
 
 .grid.ratio-1-3[
 .group[
 .subhead[.far.fa-hospital[]&nbsp;.fas.fa-graduation-cap[]]
 
 .small.darkgray[
-This list does not include universities where medical students took design thinking classes in schools outside of the medical school. It also does not include health care professional schools. Example: Stanford medical students who might take design thinking classes at the d.school or Penn medical students taking design classes in the architecture school.
+这份名单不包括那些学生在医学院外参加了“设计思维”课程的大学，也不包括
+医疗保健的专业学校，例如：斯坦福大学医学院，其学生可能去读了设计学院的“设计思维”课程；或宾夕法尼亚大学，其医科学生可能在建筑学院上了“设计思维”的课程。
 
-Also, this is not an inventory of academic medical centers or hospitals that have a design group or team. Many of these teams employ human centered design but do not necessarily teach medical students.
+
+另外，这份名单也不包括学术医疗中心或拥有设计小组或团队的医院。当中的很多团队采用“以人为中心”的设计，但不一定会向医学生教授。
+
 ]
 ]
 
 .group[
-.sans[Medical schools in the US that offer a formal program or classes that teach design thinking to medical students]
+.sans[美国的医学院开设正式的教授医学生“设计思维”的项目或课程
+]
 
-1. Dell Medical School at The University of Texas at Austin
-2. Kaiser Permanente School of Medicine (not yet opened)
-3. Mayo Clinic School of Medicine
-4. The College of Osteopathic Medicine at Oklahoma State University
-5. The Sidney Kimmel Medical College at Thomas Jefferson University
-6. The Warren Alpert Medical School of Brown University
-7. University of Michigan Medical School
-8. University of Virginia School of Medicine
-9. Zucker School of Medicine at Hofstra/Northwell
+1. 德克萨斯大学奥斯汀分校的戴尔医学院
+
+2. Kaiser Permanente医学院（尚未开放）
+
+3. 梅奥诊所医学院
+
+4. 俄克拉何马州立大学骨科医学院
+
+5. 托马斯杰佛逊大学悉尼金梅尔医学院
+
+6. 布朗大学沃伦阿尔珀特医学院
+
+7. 密歇根大学医学院
+
+8. 弗吉尼亚大学医学院
+
+9. Hofstra / Northwell的Zucker医学院
+
 
 .small.quote[
-[Bon Ku](https://twitter.com/BonKu/), MD, MPP /
+[Bon Ku](https://twitter.com/BonKu/), 医学博士、公共政策硕士
 
-In my experience, Design Thinking provides a platform for non-designers (myself included) - doctors, nurses and medical students - to work with designers.
-DT is a primer that provides us a shared language. Many of us who are in health care have already been practicing elements of DT (empathizing, prototyping, testing, etc.) but we just didn’t know what to call it.
+根据我的经验，“设计思维”为非设计师（包括我自己）、医生、护士和医学生提供了一个与设计师合作的平台。“设计思维”为我们提供了一种“通用语”。医疗健康领域中的许多人其实一直都在践行“设计思维”的元素（移情、原型设计、试验等），我们只是不知道该怎么定义这些行为。
 
-I do not believe that DT is a step by step recipe. We teach our medical students to develop a design mindset and build their creative muscles. Design thinking helps us to reimagine a better future state of health care and give us some more tools in how to get there.
+我不相信“设计思维”会有一个步骤说明书。我们教我们的医学生要开发“设计思维”并培养创造力。设计思维有助于我们重新构想更美好的未来医疗保健局面，并给予我们更多实现它的工具。
+
 ]
 ]
 ]
