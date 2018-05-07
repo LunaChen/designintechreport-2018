@@ -762,10 +762,11 @@ class: document-slide
 class: document-slide
 
 .header[
-# Consulting companies are going beyond just design thinking
+# 咨询公司正在突破“设计思维”
 
-.quote[
-This complex discipline does itself a disservice to just call itself “design,” which signals only surface-level solutions. Perhaps we’ll start to see new ways of describing these multifaceted and interconnected capabilities. —[Hugo Sarrazin](https://www.mckinsey.com/business-functions/organization/our-insights/good-design-is-good-business)
+
+.引言[
+这种复杂的学科被称为是“设计”，这本身就是对该学科的一种损害。因为说到设计，人们只会想到流于表面的解决方案。也许我们会逐渐开始看到一些新的方式去描述这些多面又相互关联的能力。 —[Hugo Sarrazin](https://www.mckinsey.com/business-functions/organization/our-insights/good-design-is-good-business)
 ]
 ]
 
@@ -773,31 +774,34 @@ This complex discipline does itself a disservice to just call itself “design,�
 .group[
 .numeral.subhead[01]
 
-.sans[**Journey<br>Design**]
+.sans[**路径<br>设计**]
 
-Infusing traditional customer (or employee) experience work with design thinking to help create spaces and experiences that drive consumer (or employee) satisfaction, operational efficiency, and revenue growth.
+将传统的客户（或员工）体验融入设计思维中，帮助提升消费者（或员工）满意度，提高运营效率和营收增长。
+
 ]
 .group[
 .numeral.subhead[02]
 
-.sans[**Advanced<br>Analytics**]
+.sans[**高级<br>分析**]
 
-The convergence of Advanced Analytics (including AI) and Design is driving the confluence of insights (both quantitative and qualitative) informing the discovery and design of a solution – where data and creativity work together, not against
-one-another.
+高级分析（包括人工智能）和设计的融合推动了洞察力（定量和定性）带来的新发现和设计解决方案的融合。现在数据和创意是协作关系，而不是相互冲突。
+
 ]
 .group[
 .numeral.subhead[03]
 
-.sans[**New Design<br>Paradigm**]
+.sans[**新设计<br>范例**]
 
-For design to inform new growth opportunities for clients, the need to quantify the value it can achieve by having great DNA as a company becomes critical.
+设计为客户带来新的增长机会，在公司壮大的过程中通过掌握关键数据，对设计能带来的价值进行定量分析。
+
 ]
 .group[
 .numeral.subhead[04]
 
-.sans[**Designer<br>Hybrids**]
+.sans[**复合型<br>设计师**]
 
-As designers are now working on problems relevant to the c-suite they need to build core analytical skills that allow them to equate their design beliefs into quantifiable impact that can deliver business value have been identified.
+由于设计人员正在研究与高级管理人员相关的问题，他们需要建立核心分析技能，这样才能够将他们的设计理念转化为可量化的影响力，这样的影响力是可以带来实际商业价值的。
+
 ]
 ]
 
@@ -808,20 +812,22 @@ As designers are now working on problems relevant to the c-suite they need to bu
 
 class: document-slide
 
-# Which companies are being perceived as improving in design?
+# 人们认为哪些公司在设计方面不断提高？
 
 .xx-large.quote[
-.orange[In the 1200+ survey responses, these companies appeared to be improving in design:] Google, Microsoft, Atlassian, Airbnb, Dropbox, Amazon
+.orange[在超过1200份调查反馈中，人们认为以下这些公司似乎在改善设计：谷歌、微软、Atlassian、Airbnb（爱彼迎）、Dropbox、亚马逊。
+
 ]
 
-## 5 dominant words to explain why a company is perceived to be improving in design
+## 被认为是设计在进步的公司可以归结为以下5个关键词：
+
 
 .x-medium.gray.sans.box-list[
-* Innovation
-* Consistency
-* Scale
-* Simplicity
-* Diversity
+* 创新
+* 统一
+* 规模
+* 简约
+* 多样性
 ]
 
 .source[#DesignInTech 2018 Open Survey | 1219 samples]
@@ -831,31 +837,32 @@ class: document-slide
 
 class: document-slide perception-of-design-slide
 
-# The perception of design and its impact to business is cyclic
+# 设计理念与其对商业的影响是循环往复的
+
 
 .grid.ratio-1-3[
 .irregular-small.darkgray.group[
 
 .book-grid[
 .group[
-Design for Action [HBR, September 2015](https://hbr.org/2015/09/design-for-action) Tim Brown and Roger L. Martin
+为应用而设计 [哈佛商业评论, 2015年9月](https://hbr.org/2015/09/design-for-action) Tim Brown and Roger L. Martin
 ]
 ![](https://hbr.org/resources/images/covers/BR1509_500.png)
 ![](https://images-na.ssl-images-amazon.com/images/I/51U8vWR6XsL._SX373_BO1,204,203,200_.jpg)
 ![](https://store.fastcompany.com/custom/assets/images/product/default/cache/FC1010_212w_263h.jpg)
 ]
 
-The Empathy Economy [BusinessWeek, March 2005 ](https://www.bloomberg.com/news/articles/2005-03-07/the-empathy-economy) / Bruce Nussbaum .tooltip[some info.tooltip-text[Design thinking can create rewarding experiences for consumers -- the key to earnings growth and an edge that outsourcing can’t beat.]]
+共情经济学 [商业周刊, 2005年3月 ](https://www.bloomberg.com/news/articles/2005-03-07/the-empathy-economy) / Bruce Nussbaum .tooltip[some info.tooltip-text[Design thinking can create rewarding experiences for consumers -- the key to earnings growth and an edge that outsourcing can’t beat.]]
 
-The Beauty of Simplicity [Fast Company 2005](https://www.fastcompany.com/56804/beauty-simplicity) / Linda Tischler .tooltip[some info.tooltip-text[Marissa Mayer, who keeps Google’s home page pure, understands that less is more. Other tech companies are starting to get it, too. Here’s why making things simple is the new competitive advantage. Google understands that simplicity is both sacred and central to its competitive advantage. Mayer is a specialist in artificial intelligence, not design, but she hits on the secret to her home page’s success: “It gives you what you want, when you want it, rather than everything you could ever want, even when you don’t.”]]
+简约之美 [快速公司 2005年](https://www.fastcompany.com/56804/beauty-simplicity) / Linda Tischler .tooltip[some info.tooltip-text[Marissa Mayer, who keeps Google’s home page pure, understands that less is more. Other tech companies are starting to get it, too. Here’s why making things simple is the new competitive advantage. Google understands that simplicity is both sacred and central to its competitive advantage. Mayer is a specialist in artificial intelligence, not design, but she hits on the secret to her home page’s success: “It gives you what you want, when you want it, rather than everything you could ever want, even when you don’t.”]]
 
-Design Thinking Is A Failed Experiment. So What’s Next? [BusinessWeek 2011](https://www.fastcodesign.com/1663558/design-thinking-is-a-failed-experiment-so-whats-next) / Bruce Nussbaum
+设计思维是一场失败的实验，那么然后呢？ [商业周刊 2011年](https://www.fastcodesign.com/1663558/design-thinking-is-a-failed-experiment-so-whats-next) / Bruce Nussbaum
 ]
 .group[
 .black.quote[
-> John Maeda distinguishes between three categories: “classical” designers, who create physical objects or products for a specific group of people (think architects as well as industrial, furniture and graphic designers); “commercial” designers who innovate by seeking deep insights into how customers interact with products and services (think teams of researchers huddled around whiteboards and mosaics of brightly colored Post-it notes); and “computational” designers, who use programming skills and data to satisfy millions or even billions of users instantaneously (think tech firms like Amazon and Facebook).
+> John Maeda将以下三个类别作了区分：“传统”设计师：谁为特定的人群创造实际物体或产品（比如说：建筑师，及工业、家具和平面设计师）; “商业”设计师谁：通过深入了解客户与产品和服务的互动方式进行创新（比如说：围绕着白板和五颜六色的便笺贴聚集在一起的研究团队）；和“计算”设计师：他们使用编程技巧和数据，以实时满足数百万甚至数十亿用户的需求（比如说：像亚马逊和Facebook这样的科技公司）。
 
-—Clay Chandler [TIME](http://time.com/5180711/the-meaning-of-design-is-up-for-debate/)
+—Clay Chandler [时代周刊](http://time.com/5180711/the-meaning-of-design-is-up-for-debate/)
 ]
 
 .grid.ratio-2-1[
@@ -865,9 +872,9 @@ Design Thinking Is A Failed Experiment. So What’s Next? [BusinessWeek 2011](ht
 .group[
 ![:image 100px,, https://timedotcom.files.wordpress.com/2018/02/greta-cover-final.jpg]
 
-.xx-small[The Meaning of Design Is up for Debate.<br>
-And That’s a Good Thing<br>
-[TIME, March 12, 2018](http://time.com/5180711/the-meaning-of-design-is-up-for-debate/) / Clay Chandler]
+.xx-small[好事一件：<br>
+一场关于设计意义的辩论就要展开<br>
+[时代周刊, 2018年3月12日](http://time.com/5180711/the-meaning-of-design-is-up-for-debate/) / Clay Chandler]
 ]
 ]
 ]
@@ -880,46 +887,50 @@ And That’s a Good Thing<br>
 
 class: document-slide
 
-# Classical Designers are slowly beginning to evolve
+# 传统设计师正在逐渐开始转变
+
 
 .stack[
 .group[
 .darkgray[
-### The top 10 most critical issues<br>and challenges currently facing design
+### 设计当前面临的10大关键问题和挑战
+
 ]
 
-1. .orange[(Classical)] Design not having a “seat at the table”
-2. .highlight[Diversity in design and tech]
-3. Ethics in design
-4. Education cost and equity of access
-5. Consumer vs. social impact focus
-6. Generational differences in the workforce
-7. Environmental impacts of design
-8. .highlight[Algorithm bias]
-9. .highlight[Advertising supported content model]
-10. .highlight[Dark UX patterns]
+1. .orange[(传统)] 设计没有一席之地
+2. .highlight[设计和技术的多样性]
+3. 设计的伦理
+4. 教育成本和机会公平
+5. 以消费者为导向 vs. 以社会影响为导向
+6. 员工的世代差异
+7. 设计的环境影响
+8. .highlight[算法的偏差]
+9. .highlight[由广告支撑的内容模型
+]
+10. .highlight[暗黑的用户体验设计]
 ]
 .group[
 .darkgray[
-### The top 10 emerging trends to have<br>the biggest impact on design
+### 对设计影响最大的10大新兴趋势
+
 ]
 
-1. .highlight[AI and machine learning]
-2. .highlight[Augmented Reality]
-3. .highlight[Virtual Reality]
-4. .highlight[Behavior tracking and modeling]
-5. .highlight[3D printing]
-6. .highlight[Distributed teams and virtual workplace]
-7. .highlight[Democratization of design]
-8. .highlight[Algorithmic design]
-9. .highlight[Crowdsourcing and open source]
-10. .highlight[Facial and voice recognition]
+1. .highlight[AI和机器学习]
+2. .highlight[AR （增强现实）]
+3. .highlight[VR （虚拟现实）]
+4. .highlight[行为跟踪和建模]
+5. .highlight[3D打印]
+6. .highlight[分布式团队和虚拟工作场所]
+7. .highlight[设计的民主化]
+8. .highlight[算法设计]
+9. .highlight[众筹和开源]
+10. .highlight[脸部和语音识别技术]
 ]
 ]
 
 <br>
 
-.small.sans[.highlight[Highlight] corresponds to computational design.]
+.small.sans[.highlight[高亮部分] 对应的是计算设计]
 
 .source[@aiga [Design Census](https://designcensus.org)]
 .footer[Technology &times; Business &times; Design]
@@ -928,63 +939,64 @@ class: document-slide
 
 class: document-slide
 
-# People Moves and Milestones
+# 人物大事件和里程碑
 
-## Happenings in the #DesignInTech space to highlight.
+## DIT（科技中的设计）领域中
 
 .timeline-grid.across-8[
-* ### 2016
+* ### 2016年
 
-* .timeline-title[March] **Andrew Crow** joins Strava as VP of Design.
+* .timeline-title[3月] **Andrew Crow**加入Strava任设计副总裁。
 
-* .timeline-title[May] Google Ventures Design Partners publish NYT bestseller book *“SPRINT.”*
-	- **August de los Reyes** joins Pinterest as Head of Design.
+* .timeline-title[5月] Google Ventures Design 的几名设计合伙人出版新书 *“《冲刺》（SPRINT）.”
 
-* .timeline-title[July] Khosla Design Partner **Irene Au** publishes *“Design in Venture Capital.”*
+*. - **August de los Reyes** 加入Pinterest任设计主管。
 
-* .timeline-title[August] Former Kleiner Perkins Design Partner **John Maeda** goes in-house to become Head of Design at Automattic.
+* .timeline-title[7月] Khosla的设计合伙人**Irene Au** 出版新书*“《风险投资中的设计（Design in Venture Capital）》.”*
 
-* .timeline-title[September] Design leader **Kristy Tillman** goes West to join Slack.
-	- Design leader **Leah Buley** publishes her State of UX in 2016 Study.
+* .timeline-title[8月] Kleiner Perkins的前设计合伙人 **John Maeda** 加入Automattic，任设计主管。
 
-* .timeline-title[October] **Catherine Courage** joins Google as VP of Ads and Commerce UX
+* .timeline-title[9月] 设计领军人物**Kristy Tillman** 加入Slack在美国西部的分部。
+	- 设计领军人物**Leah Buley** 发表《2016用户体验状态研究》。
 
-* ### 2017
+* .timeline-title[10月] **Catherine Courage** 加入谷歌（Google），任广告和商业用户体验副总裁。
 
-* .timeline-title[Feb] **Bobby Ghoshal** and **Jason Erondu** launch [High Resolution</i>](https://www.highresolution.design/1-katie-dill/) podcast for designers in tech with a **Katie Dill** feature.
+* ### 2017年
 
-* .timeline-title[Apr] Former GV Design Partner **Braden Kowitz** co-founds Range Labs
+* .timeline-title[2月] **Bobby Ghoshal**和**Jason Erondu**推出DIT播客节目[High Resolution</i>](https://www.highresolution.design/1-katie-dill/) 并对 **Katie Dill**进行了人物专访。
 
-* .timeline-title[Jun] Combine VC raises 1st fund of 12M (Founders: **Adam Michela** and **Soleio Cuervo**).
+* .timeline-title[4月] 前GV设计合伙人**Braden Kowitz**与他人联合创立Range Labs。
 
-* .timeline-title[Jul] Former Accel Design partner **Jason Mayden** unveils Super Heroic as co-founder/CEO.
+* .timeline-title[6月] Combine VC完成第一轮1,200万的融资(创始人：**Adam Michela**和**Soleio Cuervo**).
 
-* .timeline-title[Jul] Initialized Capital raises 3rd fund of $125M (MP: **Garry Tan**).
+* .timeline-title[7月] 前Accel设计合伙人**Jason Mayden**作为共同创始人兼CEO，为新公司Super Heroic揭牌。
 
-* .timeline-title[Aug] **Kate Aronowitz** joins Google Ventures (GV) as Design Partner.
+* .timeline-title[7月] Initialized Capital 完成第三轮1.25亿美元的融资 (管理合伙人: **Garry Tan**)。
 
-* .timeline-title[Sep] **Randy Hunt** joins Artsy as Head of Design.
+* .timeline-title[8月] **Kate Aronowitz** 加入Google Ventures (GV)任设计合伙人.
 
-* .timeline-title[Oct] **Katie Dill** leaves Airbnb to join Lyft as VP of Design.
-	- **Michael Gough** leaves Microsoft to join Uber as VP of Design.
+* .timeline-title[9月] **Randy Hunt**加入Artsy 任设计主管。
 
-* .timeline-title[Nov] **Kat Holmes** joins the Automattic Board of Advisors.
-	- Intuit names its first Chief Product and Design Officer, **Diego Rodriguez**.
+* .timeline-title[10月] **Katie Dill**离开Airbnb加入Lyft任设计副总裁。
+	- **Michael Gough**离开Microsoft加入Uber任设计副总裁。
 
-* .timeline-title[Dec] Design tool startup InVision announces the $5M Design Forward Fund.
+* .timeline-title[11月] **Kat Holmes**加入Automattic顾问委员会。
+	- Intuit任命**Diego Rodriguez**为他们的第一任首席产品和设计官。
 
-* .timeline-title[Dec] New Enterprise Associates (NEA) Design Partner **Albert Lee** with General Partner **Dayna Grayson** [publishes](https://twitter.com/daynagrayson/status/943173916322861057) the 2017 Future of Design in Start-ups survey results.
+* .timeline-title[12月] 设计工具初创公司InVision 宣布设立500万美元的设计基金Design Forward Fund。
 
-* ### 2018
+* .timeline-title[12月] New Enterprise Associates (NEA)的设计合伙人**Albert Lee**与合伙人**Dayna Grayson** [发布](https://twitter.com/daynagrayson/status/943173916322861057) 2017初创企业未来设计调查报告。
 
-* .timeline-title[2018 Jan] **Vanessa Cho** joins GV as Design Partner.
-	- _Google Ventures emerges as the clear leader in venture capital and design as a sustainable team._
+* ### 2018年
 
-* .timeline-title[Feb] Former GV Design Partner **Daniel Burka** joins Resolve To Save Lives as Design Director.
+* .timeline-title[2018年1月] **Vanessa Cho** 加入GV，任设计合伙人。
+	- _Google Ventures作为一个可持续的团队，正逐渐成为风险投资和设计领域的绝对领头人。_
 
-* .timeline-title[Feb] IBM Design led by **Phil Gilbert** enables IBM Cloud to win [two](https://medium.com/design-ibm/ibm-cloud-continues-to-demonstrate-design-excellence-7a5150124136) iF Design Awards.
+* .timeline-title[2月] GV前设计合伙人**Daniel Burka**加入Resolve To Save Lives，任设计总监。
 
-* .timeline-title[Feb] Design tool startup Figma [raises](https://www.bloomberg.com/news/articles/2018-02-01/startups-try-to-chip-away-at-adobe-s-dominance) 25M Series B led by Kleiner Perkins **Mamoon Hamid**.
+* .timeline-title[2月] 在**Phil Gilbert**的带领下，IBM Cloud荣获[两项](https://medium.com/design-ibm/ibm-cloud-continues-to-demonstrate-design-excellence-7a5150124136) iF设计奖。
+
+* .timeline-title[2月] 设计工具初创公司[raises](https://www.bloomberg.com/news/articles/2018-02-01/startups-try-to-chip-away-at-adobe-s-dominance) 获2500万B轮融资，由**Mamoon Hamid**所在的凯鹏华盈（Kleiner Perkins）领投。
 ]
 
 .source[@tberno @jshoee @ezyjules @wertandcompany @johnmaeda]
@@ -995,10 +1007,12 @@ class: document-slide
 class: document-slide
 
 .header[
-# Think Beyond Silicon Valley: India and Design
+# 跳出硅谷看世界：设计在印度
+
 
 .quote[
-> By 2050, India’s economy is projected to be the world’s second largest, behind only China. —[WEF](https://www.weforum.org/agenda/2017/10/eight-key-facts-about-indias-economy-in-2017/)
+> 到2050年，印度预计将紧随中国成为世界第二大经济体。——世界经济论坛
+ —[WEF](https://www.weforum.org/agenda/2017/10/eight-key-facts-about-indias-economy-in-2017/)
 ]
 ]
 
@@ -1006,65 +1020,67 @@ class: document-slide
 .group[
 .numeral.subhead[01]
 
-.sans[**English Speaking**]
+.sans[**英语国家**]
 
 .irregular-small.quote-list[
-* 125 million English speakers, second only to the United States.
-* Oral tradition where narrative is the primary mode of culture propagation.
-* India is a pluralistic society, secular and incredibly diverse.
-Multi-ethnic Art & Craft tradition with local idioms marking design sensibilities. * Strictly speaking, there is no such thing as a unified “Indian” culture-it’s identified by region / state.
-* Differing in Cuisine, Language, Performing arts, Apparel, Customs, Music, Literature, Architecture, …
+* 印度说英语的人口达1.25亿，仅次于美国。
+
+* 文化的传播主要依靠传统的口耳相传。
+* 印度是一个多元化社会，世俗且非常多样化。
+多民族的艺术和手工传统为感性设计烙上本土风格的印记。 * 严格来说，不存在统一的“印度”文化——各个地区/邦自成一体。
+* 各地均有不同的菜系、语言、表演艺术、服饰、习俗、音乐、文学、建筑……
 ]
 ]
 .group[
 .numeral.subhead[02]
 
-.sans[**Mobile Culture**]
+.sans[**移动文化**]
 
 .irregular-small.quote-list[
-* India has the second largest installed base of smartphones in the world behind China of ~300 million.
-* Basic smartphone handsets are available at below $50
-* Monthly data plan for under $2
-* People in India spent ~150 billion hours on Android devices in 2016
-* 70% of Indians consider local language (22 official local languages) digital content more reliable than content in English
-* 9 out of 10 users coming online are not proficient in English, but adapt anyways. Many use the English keyboard -- not bothering to switch to the script of their native language
+* 印度的智能手机安装基数位居世界第二，达3亿部，仅次于中国。
+* 基础智能手机售价在$50 美元以下。
+* 每月流量套餐价格不超过 $2美元
+* 2016年，印度人使用安卓设备的时长达1500亿小时。
+* 70%的印度人认为本地语言（22个官方本地语言）的数字内容比英语内容更可靠。
+* 约90%的网络用户不擅长英语，但他们还是会选择适应。很多人会因为懒得切换回母语键盘而去使用英文键盘。
 ]
 ]
 .group[
 .numeral.subhead[03]
 
-.sans[**China with (not vs) India**]
+.sans[**与中国同行（而非对抗）**]
 
 .irregular-small.quote-list[
-* China and India make a complementary combination of machine power and human power: China - Products / India - Services.
-* They’re giant neighbors.
-* Each has a population of over a billion (they collectively account for 36.3% of the world’s people).
-* They anchor the “rise of the rest.”
-* Each touts its style of governance as opposed to that of the other: China, with its authoritarian efficiency; India, with its democratic vibrancy.
+* 中国的设备资源与印度的人力资源互为补充，形成了有机结合：中国提供产品，印度则提供服务。
+
+* 这两个人口大国相互毗邻。
+* 人口分别超10亿（合计占世界总人口的36.3%）。
+* 两国都是“他国崛起”（the rise of the rest）时代中的核心国家。
+* 二者的治国方式截然相反：中国的集权带来高效，印度的民主则带来活力。
 ]
 ]
 .group[
 .numeral.subhead[04]
 
-.sans[**JUGAAD**]
+.sans[**JUGAAD文化**]
 
 .irregular-small.quote-list[
-* In Hindi,
+* 在北印度语中，
 
-	_“overcoming harsh constraints by improvising an effective solution using limited resources”._
+	JUGAAD指_“通过巧用有限的资源、即兴打造有效的解决方案来打破严苛的约束””._
 
-	(a.k.a. “the MVP”)
-* Thrift not waste.
-* Inclusion, not exclusion.
-* Bottom-up participation, not top-down command and control.
-* Flexible thinking and action, not linear planning.
+	(也即“最简可行产品”，或MVP产品)
+* 节约，不浪费。
+* 包容，不排他。
+* 自下而上的参与，而非自上而下的指挥和控制。
+* 灵活地思考和行动，而非线性地规划。
 ]
 
-.x-small[[HBR](https://hbr.org/2010/01/jugaad-a-new-growth-formula-fo) (2010) / Ravi Radjou, Jaideep Prabhu, and Simone Ahuja]
+.x-small[[哈佛商业评论](https://hbr.org/2010/01/jugaad-a-new-growth-formula-fo) (2010年) / Ravi Radjou, Jaideep Prabhu, and Simone Ahuja]
 ]
 ]
 
-.source[@sunilmalhotra [Indian Express](http://indianexpress.com/article/technology/india-set-to-have-530-million-smartphone-users-in-2018-study-4893159/) [Quartz](https://qz.com/972844/indias-internet-users-have-more-faith-in-content-thats-not-in-english-study-says/) [Recode](https://www.recode.net/2017/5/31/15720378/mary-meeker-india-annual-internet-trends-report-code-2017) [HBR](https://hbr.org/2010/01/jugaad-a-new-growth-formula-fo)]
+.来源[@sunilmalhotra [印度快报](http://indianexpress.com/article/technology/india-set-to-have-530-million-smartphone-users-in-2018-study-4893159/) [Quartz](https://qz.com/972844/indias-internet-users-have-more-faith-in-content-thats-not-in-english-study-says/) [Recode](https://www.recode.net/2017/5/31/15720378/mary-meeker-india-annual-internet-trends-report-code-2017) [哈佛商业评论](https://hbr.org/2010/01/jugaad-a-new-growth-formula-fo)]
 .footer[Technology &times; Business &times; Design]
 
 ---
@@ -1072,10 +1088,11 @@ Multi-ethnic Art & Craft tradition with local idioms marking design sensibilitie
 class: document-slide
 
 .header[
-# Think Beyond Silicon Valley: Latin America and Design
+# 跳出硅谷看世界：设计在拉美
+
 
 .quote[
-Latin America has the fastest rate of smartphone adoption in the world. —[Fast Company](https://www.fastcompany.com/3044662/what-latin-america-will-look-like-in-2020)
+拉美的智能手机普及速度世界第一。 —[Fast Company](https://www.fastcompany.com/3044662/what-latin-america-will-look-like-in-2020)
 ]
 ]
 
@@ -1083,47 +1100,48 @@ Latin America has the fastest rate of smartphone adoption in the world. —[Fast
 .group[
 .numeral.subhead[01]
 
-.darkgray.sans[**Design Rush**]
+.darkgray.sans[**设计热**]
 
 .darkgray.irregular-small.quote-list[
-* Latin America (LATAM) has a long history with design that started out in the 1950s.
-* .purple.sans[1950s] - Mexico, Argentina and Brazil led the movement in LATAM of formal design schools.
-* .purple.sans[Today] - Vibrant startup ecosystem. [Insitum](https://www.fastcompany.com/3041655/the-worlds-top-10-most-innovative-companies-of-2015-in-latin-), “IDEO of emerging markets” has 5 offices in LATAM and 140+ consultants.
-* .purple.sans[Future] - A new generation of mobile users could create an ideal environment for a new digital currency.
+* 拉美的设计历史悠久，可追溯至上世纪50年代。
+* .purple.sans[20世纪50年代] - 墨西哥、阿根廷和巴西引领了设立正规设计院校的运动。
+* .purple.sans[如今] - 拉美拥有充满活力的初创生态系统。 [Insitum](https://www.fastcompany.com/3041655/the-worlds-top-10-most-innovative-companies-of-2015-in-latin-), 被喻为“新兴市场的IDEO”的Insitum咨询公司在拉美地区拥有5个办事处、140+顾问。
+* .purple.sans[未来] - 新一代的手机用户将为新的数字货币创造理想的环境。
 ]
 ]
 .group[
 .numeral.subhead[02]
 
-.darkgray.sans[**With the Wall or Without It**]
+.darkgray.sans[**要墙，还是要强**]
 
 .darkgray.irregular-small.quote-list[
-* LATAM region, with 650 million people, is exploring opportunities to be less dependent on the US economy.
-* The [Trans Pacific Partnership](https://www.nytimes.com/2018/03/08/world/asia/us-trump-tpp-signed.html) has been signed between 11 countries, and China is solidifying its ties with the region [via startups](https://www.bloomberg.com/news/articles/2018-03-04/chinese-startups-export-playbook-to-latin-america-for-new-riches).
-* Ex: China’s Didi [acquires 99](https://techcrunch.com/2018/01/03/didi-confirms-it-has-acquired-99-in-brazil-to-expand-in-latin-america/), a ridesharing company in Brazil 99.
+* 人口达6.5亿的拉美地区正在找寻机会，减少自身对美国经济的依赖。
+* 目前已有11个国家签署了[跨太平洋伙伴关系协议（TPP）](https://www.nytimes.com/2018/03/08/world/asia/us-trump-tpp-signed.html)， 中国正在通过初创企业巩固自己与拉美国家的关系[via startups](https://www.bloomberg.com/news/articles/2018-03-04/chinese-startups-export-playbook-to-latin-america-for-new-riches)。
+* 例：中国的滴滴[收购99](https://techcrunch.com/2018/01/03/didi-confirms-it-has-acquired-99-in-brazil-to-expand-in-latin-america/)——巴西的一家拼车公司。
 ]
 ]
 .group[
 .numeral.subhead[03]
 
-.darkgray.sans[**Copy, Adapt and Improve**]
+.darkgray.sans[**复制、改良和提升
+**]
 
 .darkgray.irregular-small.quote-list[
-* Increased activity in the startup ecosystem in LATAM.
-* Many of the startups are adaptations of successful models elsewhere customized to LATAM environment, while often finding opportunities to improve beyond the original.
-* Ex: [Kubo Financiero](https://www.kubofinanciero.com) is the Mexican LendingClub, and it’s introduced a social responsibility component to investing - which resonates with users in a nationalistic country like Mexico.
+* 拉美初创生态圈越来越活跃。
+* 很多初创公司都是将其他地区的成功模式经过本地化改良后拿来用，但这些公司通常也会不断寻找超越原模式的机会。
+* 例: [Kubo Financiero](https://www.kubofinanciero.com)是墨西哥版的LendingClub，该公司在投资活动中引入社会责任板块，在墨西哥这样的民族主义国家无疑深得人心。
 ]
 ]
 .group[
 .numeral.subhead[04]
 
-.darkgray.sans[**Design for Trust**]
+.darkgray.sans[**为信任而设计**]
 
 .darkgray.irregular-small.quote-list[
-* Corruption is everywhere.
-* There is a generalized lack of trust between people, companies and governments.
-* Startups are disrupting traditional industries by designing to inspire trust and prevent fraud while providing a good user experience.
-* Ex: [Nubank](https://www.crunchbase.com/organization/nubank). - online credit card company, and [Enlight](https://www.crunchbase.com/organization/enlight-mexico) - Mexico’s solar-energy startup.
+* 贪污腐败无处不在。
+* 人民、企业和政府之间普遍缺乏信任。
+* 为此，初创公司正通过设计来激发信任、防止欺诈并打造良好的客户体验，以此来颠覆传统行业。
+* 例: [Nubank](https://www.crunchbase.com/organization/nubank). - 一家网络信用卡公司，以及[Enlight](https://www.crunchbase.com/organization/enlight-mexico) - 墨西哥的一家太阳能初创企业。
 ]
 ]
 ]
@@ -1135,106 +1153,112 @@ Latin America has the fastest rate of smartphone adoption in the world. —[Fast
 
 class: document-slide
 
-# Think Beyond Silicon Valley: China and Design
+# 跳出硅谷看世界：设计在中国
+
 
 .darkgray.small.stack[
 .group[
 .numeral.subhead[01]
 
-.medium.sans[**Car Experiences**]
+.medium.sans[**汽车体验**]
 
 .figure[
 ![:image 220px, https://www.nio.io/prod/s3fs-public/styles/scale_width_1920_desktop_1x_/public/hero/home-es8-banner-bg.jpg]
 .caption[via NIO]
 ]
 
-New driving and transportation experiences via [NIO](https://www.nio.com/) [Weima](http://www.wm-motor.com/) [Xiaopeng](https://www.xiaopeng.com/en/) [FF](https://www.ff.com/us/)
+由[蔚来](https://www.nio.com/) [威马](http://www.wm-motor.com/) [小鹏](https://www.xiaopeng.com/en/) [乐视FF](https://www.ff.com/us/)带来全新的驾驶和出行体验。
 
-.small.subhead[Check out two New Designer-Founded Startups]
+.small.subhead[有两家由设计师成立的初创公司值得关注]
 
-1. [ShanZhai City](http://www.shanzhaicity.com/) A social impact assessment big-data company.
-2. [Youzan](http://www.tmogroup.asia/sell-on-wechat-top-3rd-party-wechat-ecommerce-platforms-in-china-now/) SaaS company to help anyone open an online shop on WeChat.
+1. [山寨城市](http://www.shanzhaicity.com/) 一家评估社会影响力的大数据公司。
+2. [有赞](http://www.tmogroup.asia/sell-on-wechat-top-3rd-party-wechat-ecommerce-platforms-in-china-now/) 一家帮助用户在微信上开店的SaaS公司
 ]
 .group[
 .numeral.subhead[02]
 
-.medium.sans[**Retail Experiences**]
+.medium.sans[**零售体验**]
 
 ![:video video/mp4, https://bcsecure04-a.akamaihd.net/36/5392214352001/201712/6/5392214352001_5668800512001_5668789168001.mp4?pubId=5392214352001&videoId=5668789168001]
 
-Alibaba Hema and the Starbucks Roastery represent a new vertical integration between online and offline experiences.
+阿里巴巴的盒马和星巴克的臻选烘焙工坊代表了一种将线上线下体验进行垂直结合的全新模式。
 
-Related: Employee-less [BingoBox](http://www.scmp.com/tech/china-tech/article/2123348/unmanned-stores-china-still-working-seamless-shopper-experience) convenience stores are unlocked with a mobile phone by scanning a QR code and with no cashier.
+
+相关案例：[缤果盒子便利店](http://www.scmp.com/tech/china-tech/article/2123348/unmanned-stores-china-still-working-seamless-shopper-experience) 没有员工也没有收银，开门需使用手机扫描二维码解锁。
 ]
 ]
 
-.source[@ling_fan_tezign Ling Fan, CEO/Founder Tezign [The Information](https://go.theinformation.com/d34d5f937e89c84d) [Alizila](http://www.alizila.com/alibaba-tech-underpins-launch-worlds-interactive-starbucks/) [South China Morning Post](http://www.scmp.com/tech/china-tech/article/2123348/unmanned-stores-china-still-working-seamless-shopper-experience)]
+.来源[@ling_fan_tezign（范凌，特赞信息科技公司创始人兼CEO）；[The Information](https://go.theinformation.com/d34d5f937e89c84d) [Alizila新闻](http://www.alizila.com/alibaba-tech-underpins-launch-worlds-interactive-starbucks/) [南华早报](http://www.scmp.com/tech/china-tech/article/2123348/unmanned-stores-china-still-working-seamless-shopper-experience)]
 .footer[Technology &times; Business &times; Design]
 
 ---
 
 class: document-slide
 
-# Think Again Beyond Silicon Valley: China and Design
+# 跳出硅谷看世界：设计在中国（续）
+
 
 .darkgray.small.stack[
 .group[
 .numeral.subhead[03]
 
-.medium.sans[**Alibaba Luban: E-commerce Design Robot**]
+.medium.sans[**阿里巴巴“鲁班”：电商的设计机器人
+**]
 
 .figure[
 ![:image auto, 220px, http://image.uisdc.com/wp-content/uploads/2017/04/uisdc-ali-20170420-7.gif]
 .caption[via UISDC]
 ]
 
-* Alibaba Luban produced 400 million banners during the 2017 singles day, resulting in a 100% increase in conversion rate.
-* 1 million banner / e-commerce designers in Alibaba’s ecosystem (70% face the challenge from Luban).
-* More automated marketing design tools are emerging like [Arkie](https://Arkie.cn) and [Kuaizi](https://Kuaizi.co).
+* λ	阿里巴巴的“鲁班”机器人在2017年的双十一设计了4亿个广告横幅，实现了转换率100%的增长。
+* λ	在阿里巴巴的生态系统里有100万个广告横幅/电商设计师（其中70%受到了“鲁班”的挑战）。
+* λ	越来越多的自动化营销设计工具开始出现，如[Arkie](https://Arkie.cn)和[筷子科技](https://Kuaizi.co).
 ]
 .group[
 .numeral.subhead[04]
 
-.medium.sans[**Design & AI report**]
+.medium.sans[**设计和人工智能报告**]
 
 .figure[
 ![:image auto, 220px, http://image.uisdc.com/wp-content/uploads/2017/04/uisdc-ali-20170420-2.jpg]
 .caption[via UISDC]
 ]
 
-Visit the [Design & AI Report](https://www.sheji.ai) produced by **Ling Fan** in collaboration with Tongji University, Tezign, and Alibaba AI Design Lab
+查看**范凌**联合同济大学、特赞和阿里巴巴智能设计实验室共同发布的[设计和人工智能报告](https://www.sheji.ai)。
 ]
 ]
 
-.source[Ling Fan, CEO/Founder Tezign / [The Information](https://go.theinformation.com/d34d5f937e89c84d) [UISDC](http://www.uisdc.com/alibaba-luban-ai-banner) [Gale Partners](https://medium.com/@rexrothX/ai-visual-design-is-already-here-and-it-wont-hesitate-to-take-over-your-petty-design-job-934d756db82e)]
+.来源：范凌，特赞信息科技公司创始人兼CEO / [The Information](https://go.theinformation.com/d34d5f937e89c84d) [优设（UISDC）](http://www.uisdc.com/alibaba-luban-ai-banner) [Gale Partners](https://medium.com/@rexrothX/ai-visual-design-is-already-here-and-it-wont-hesitate-to-take-over-your-petty-design-job-934d756db82e)]
 .footer[Technology &times; Business &times; Design]
 
 ---
 
 class: document-slide
 
-# You’re not getting any younger. You’re getting B(older).
+# 芳华不再，B世代将主宰.
 
 .large.quote[
-> Restricting its estimate to those aged 60 and up, market research firm Euromonitor predicts that by 2020, worldwide older-adult spending will reach $15 trillion—and that’s still well before global aging will fully hit its stride. By 2030, the Boston Consulting Group estimates that the 55-plus population will have been responsible for 50 percent of the US consumer spending growth since 2008, 67 percent of that of Japan, and 86 percent for that of Germany. It’s no exaggeration to say that the world’s most advanced economies will soon revolve around the needs, wants, and whims of grandparents.
+> 根据市场调研公司Euromonitor的预测，全球60岁及以上人口的消费到2020年将达15万亿美元——而此时全球老龄化速度却还远未达到巅峰。以2008年为分界，波士顿咨询公司预计美国消费者支出增长的50%到2030年将由55岁及以上的人口驱动，在日本该比例为67%，德国则为86%。不夸张地说，世界最先进的经济体很快就会开始围绕祖父母一辈的需求、欲望和想法来旋转。
+
 
 —[Joseph Coughlin](http://agelab.mit.edu/longevity-economy)
 ]
 
-.source[[The Longetivity Economy](http://agelab.mit.edu/longevity-economy)]
+.s来源[[长寿经济](http://agelab.mit.edu/longevity-economy)]
 .footer[Technology &times; Business &times; Design]
 
 ---
 
 class: document-slide
 
-# Think Beyond GenZ + Millennials: Think Gen B(older)
+# 眼光不要停留在Z世代+千禧世代：大胆看向B世代吧
+
 
 .stack[
 .group[
 .numeral.subhead[01]
 
-.darkgray.sans[**A B(older) EU Median Age**]
+.darkgray.sans[**越来越老的欧盟年龄中位数**]
 
 .figure[
 ![:image 280px, https://assets.weforum.org/editor/2KdV59nkmwGn68gOJ5NGuiH91Z16wz35OglbqRZuTLE.gif]
@@ -1242,15 +1266,16 @@ class: document-slide
 ]
 
 .small.quote[
-> U.N. projects some European countries to start hitting a median age of 50 or higher. This includes countries like Spain, Italy, Portugal, and Greece, and then later Germany, Poland, Bosnia, and Croatia.
+> 根据联合国的预测，一些欧洲国家的中位数年龄已开始逐步向50岁或以上靠拢，其中包括西班牙、意大利、葡萄牙、希腊以及紧随其后的德国、波兰、波斯尼亚和克罗地亚。
 
-—[WEF](https://www.weforum.org/agenda/2017/11/these-animations-show-the-western-world-is-rapidly-ageing)
+
+—[世界经济论坛](https://www.weforum.org/agenda/2017/11/these-animations-show-the-western-world-is-rapidly-ageing)
 ]
 ]
 .group[
 .numeral.subhead[02]
 
-.darkgray.sans[**A B(older) US Too**]
+.darkgray.sans[**美国也将经历老龄化**]
 
 .figure[
 ![:image 280px, http://assets.pewresearch.org/wp-content/uploads/sites/12/2014/04/847889448.gif]
@@ -1258,24 +1283,24 @@ class: document-slide
 ]
 
 .small.quote[
-> From 1960 to 2060, our pyramid will turn into a rectangle. We’ll have almost as many Americans over age 85 as under age 5.
+> 从1960年开始到2060年，美国的人口金字塔将转变为一个矩形。85岁以上的人口和5岁以下的人口将基本持平。
 
-—[PEW](http://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion)
+
+—[尤研究中心（PEW）](http://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion)
 ]
 ]
 .group[
 .numeral.subhead[03]
 
-.darkgray.sans[**Startup CEOs Get B(older)**]
+.darkgray.sans[**初创企业的CEO们也老了**]
 
 .quote[
-> The aging of the U.S. population, combined with
-the increasing rate of new entrepreneurs among individuals aged fifty-five to sixty-four, have shifted this group from making up 14.8 percent of new entrepreneurs in the 1997 Index to 25.8 percent of all new entrepreneurs in the 2015 Index.
+> 随着美国人口的老龄化，55到64岁之间的新企业家人数的增多，这一年龄群体占新企业家总人数的比例在考夫曼指数中由1997年的14.8%上升到了2015年的25.8%。
 
-—[Kauffman Foundation](http://www.kauffman.org/~/media/kauffman_org/research%20reports%20and%20covers/2015/05/kauffman_index _startup_activity_national_trends_2015.pdf)
+—[考夫曼基金会（Kauffman Foundation）](http://www.kauffman.org/~/media/kauffman_org/research%20reports%20and%20covers/2015/05/kauffman_index _startup_activity_national_trends_2015.pdf)
 ]
 
-.x-small.darkgray[_Younger entrepreneurs (ages twenty to thirty-four) made up 24.7 percent of all new entrepreneurs in the 2015 index_]
+.x-small.darkgray[_在2015年的指数中，年轻企业家（20到34岁之间）占新企业家总数的24.7%。_]
 ]
 ]
 
@@ -1286,17 +1311,17 @@ the increasing rate of new entrepreneurs among individuals aged fifty-five to si
 
 class: chapter-slide lightgray-slide
 
-# .xx-large.mono[Scaling<br>Design]
+# .xx-设计的进步]
 
 .group[
-### Design capabilities don’t scale like Moore’s Law
+### 摩尔定律并不适用于设计能力的提升
 
-* Design is generally used early in the product development process instead of applied at the very end before it is shipped.
-* Creating an inclusive culture for designers is how to start building better products. Listening to what they value is how to start.
-* Unconscious bias is promoted by stereotypes that exclude others. Recognizing exclusion is a way to take immediate action.
-* Design tools and systems are ch-ch-changing these days. Among many new capabilities, machine intelligence looks to change everything.
-* We’re in a golden age of data visualization and quant-qual science. The tools that are available today enable understanding -- for those who want it.
-* User research skills and product management skills are vital for designers to understand to work more inclusively with customers and product colleagues.
+* λ	设计通常应用于产品开发的初期，而不是后期产品交付之前；
+* λ	要优化产品，首先应为设计师创造一个包容的文化环境，第一步就是去了解他们重视些什么；
+* 他的思维定式助长了无意识的偏见，识别偏见背后的排他性也是迅速应对这种偏见的一种手段；
+* 设计工具和系统正在发生翻天覆地的变化。在众多新技术中，人工智能有望改变一切。
+* λ	我们正处在数据可视化和量子质量科学的黄金时代。在现有工具的帮助下，只要是你想了解的内容，就没有你理解不了的。
+* λ	为了能更紧密地与客户和产品部门的同事合作，设计师也应对用户调查和产品管理技能有所了解。
 ]
 
 .footer[Scaling Design]
